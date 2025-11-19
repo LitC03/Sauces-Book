@@ -5,3 +5,4 @@
 * [Mayonaise](mayo.md)
 
 ## Hot sauces
+* [Hot_sauce](hot_sauce.md)
