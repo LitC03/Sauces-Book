@@ -6,3 +6,4 @@
 
 ## Hot sauces
 * [Gravy](gravy.md)
+* [Hot_sauce](hot_sauce.md)
